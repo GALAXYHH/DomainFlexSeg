@@ -5,7 +5,7 @@ This repository is the official implementation of **DomainFlexSeg: Domain Genera
 # Requirements:
 - Python 3.7
 - Pytorch 1.7.0
-- 
+  
 # Description:
 Regarding the domain generalization issue of the following ultrasound images, we need to conduct training on DomainA-D and strive to improve the segmentation performance on DomainE:
 <img width="1952" height="567" alt="image" src="https://github.com/user-attachments/assets/3e201430-8f05-4442-bf97-716a51fc7721" />
